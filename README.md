@@ -1,5 +1,5 @@
 # MERN-TODO-APP
-This is a MERN application
+This is a MERN TODO application
 
 Project's Title:
 TODO APP
