@@ -13,3 +13,5 @@ This project requires the following modules/library: NPM,Nodejs,Reactjs
 Installation -> Run npm install and then npm start inside client and server folder.
 
 Functionalities available : -> User can login and register to TODO App. -> User can View, Add or Delete the TODO note.
+
+Note : This project have In Memory user's database.
